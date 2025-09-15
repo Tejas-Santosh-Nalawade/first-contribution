@@ -27,3 +27,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 | Tanushri Dalbhanjan | SCOB10 | [GitHub](https://github.com/Tanushri1307) | CPP | Google |
 |Soham Antre|SCOA69||[Github](https://github.com/Soham007575)|Python|Nvidia|
 |Om Mahandule|SCOA12|[GitHub](https://github.com/mahanduleom2-pixel)|java|Google|
+| Yash Sathe | SCOB34 | [GitHub](https://github.com/BOLT2006) | CPP | Google |
