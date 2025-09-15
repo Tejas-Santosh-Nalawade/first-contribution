@@ -25,7 +25,7 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 | Vedant Jinnewar| SCOB56 | [GitHub](https://github.com/vedantstudio2006) | Python | Microsoft |
 | Shweta Kanade | SCOB62 | [GitHub](https://github.com/shwetakanade121) | Python,HTML,CSS| Google |
 | Tanushri Dalbhanjan | SCOB10 | [GitHub](https://github.com/Tanushri1307) | CPP | Google |
-|Soham Antre|SCOA69||[Github](https://github.com/Soham007575)|Python|Nvidia|
+|Soham Antre|SCOA69| [Github](https://github.com/Soham007575)|Python|Nvidia|
 |Om Mahandule|SCOA12|[GitHub](https://github.com/mahanduleom2-pixel)|java|Google|
 | Yash Sathe | SCOB34 | [GitHub](https://github.com/BOLT2006) | CPP | Google |
 YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
@@ -33,6 +33,7 @@ YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
 | Rushikesh Jadhav | SCOB67 | [GitHub](https://github.com/madmaxdobby) | Python | Google |
 |Om Kalhatkar|SCOB57|[GitHub](https://github.com/omkal18)|CPP|Amazon|
 | Tanmay Ghadge | SCOB28 | [GitHub](https://github.com/Tanmay-g05) | CPP , Python | Google , Amazon |
-| Samiksha Khaire | SCOB63 | [Github]-(https://github.com/Samiksha-0999) | java | Microsoft |
+| Samiksha Khaire | SCOB63 | [Github](https://github.com/Samiksha-0999) | java | Microsoft |
 | Mrunal Jagtap | SCOB40 | [GitHub](https://github.com/SpoidyMon) | CPP | Google |
 | Sneha More | SCOA79 | [GitHub](https://github.com/snehamore555) | Python,Java | Amazon |
+| Rupali Khalkar | SCOA76 | [GitHub](https://github.com/rupalikhalkar23) | CPP,Python | Microsoft |
