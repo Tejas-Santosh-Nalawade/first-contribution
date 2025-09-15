@@ -35,3 +35,4 @@ YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
 | Tanmay Ghadge | SCOB28 | [GitHub](https://github.com/Tanmay-g05) | CPP , Python | Google , Amazon |
 | Samiksha Khaire | SCOB63 | [Github]-(https://github.com/Samiksha-0999) | java | Microsoft |
 | Mrunal Jagtap | SCOB40 | [GitHub](https://github.com/SpoidyMon) | CPP | Google |
+| Sneha More | SCOA79 | [GitHub](https://github.com/snehamore555) | Python,Java | Amazon |
