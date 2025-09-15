@@ -21,3 +21,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 | Pratik Singh | SCOB58 | [GitHub](https://github.com/Pratik168960) | CPP | Google |
 | Nandani waghmare | SCOB78 | [GitHub](https://github.com/Nandaniwaghmare) CPP Python | Google |
 | Rupesh Jagtap | SCOB23 | [GitHub](https://github.com/rupesh0001-tech) | CPP | Google |
+| Sujal toke | SCOB53 | [GitHub](https://github.com/SujalTOke) | cpp,python | google |
