@@ -18,3 +18,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 | Abhijit Deshmukh | SCOB76 | [GitHub](https://github.com/Abhijit5011) | Python | Microsoft |
 | Tanishka Zaware| SCOB46 | [GitHub](https://github.com/tanishkazaware/github-_session-try.git) | JAVA | Google |
 | subodh danekari | SCOA27| [GitHub](https://github.com/subodhdanekari/first-contribution.git) | CPP | Google |
+| Pratik Singh | SCOB58 | [GitHub](https://github.com/Pratik168960) | CPP | Google |
