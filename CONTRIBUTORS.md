@@ -20,4 +20,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 | subodh danekari | SCOA27| [GitHub](https://github.com/subodhdanekari/first-contribution.git) | CPP | Google |
 | Pratik Singh | SCOB58 | [GitHub](https://github.com/Pratik168960) | CPP | Google |
 | Nandani waghmare | SCOB78 | [GitHub](https://github.com/Nandaniwaghmare) CPP Python | Google |
-
+| Rupesh Jagtap | SCOB23 | [GitHub](https://github.com/rupesh0001-tech) | CPP | Google |
