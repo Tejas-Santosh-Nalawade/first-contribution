@@ -37,3 +37,4 @@ YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
 | Mrunal Jagtap | SCOB40 | [GitHub](https://github.com/SpoidyMon) | CPP | Google |
 | Sneha More | SCOA79 | [GitHub](https://github.com/snehamore555) | Python,Java | Amazon |
 | Rupali Khalkar | SCOA76 | [GitHub](https://github.com/rupalikhalkar23) | CPP,Python | Microsoft |
+| Yash Satpute| SCOB32 | [GitHub](https://github.com/YashSatpute3142) | CPP | Google |
