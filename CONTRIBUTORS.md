@@ -29,3 +29,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 |Om Mahandule|SCOA12|[GitHub](https://github.com/mahanduleom2-pixel)|java|Google|
 | Yash Sathe | SCOB34 | [GitHub](https://github.com/BOLT2006) | CPP | Google |
 YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
+| Prashant Kokare | SCOB03| [GitHub](https://github.com/Prashant-2008) | Python | Microsoft |
