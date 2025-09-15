@@ -33,3 +33,4 @@ YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
 | Rushikesh Jadhav | SCOB67 | [GitHub](https://github.com/madmaxdobby) | Python | Google |
 |Om Kalhatkar|SCOB57|[GitHub](https://github.com/omkal18)|CPP|Amazon|
 | Tanmay Ghadge | SCOB28 | [GitHub](https://github.com/Tanmay-g05) | CPP , Python | Google , Amazon |
+| Samiksha Khaire | SCOB63 | [Github]-(https://github.com/Samiksha-0999) | java | Microsoft |
