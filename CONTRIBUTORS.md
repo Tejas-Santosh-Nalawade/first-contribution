@@ -14,3 +14,4 @@ Add your details below 👇
 |Shubham Chaudhari|SCOA74|[GitHub](https://github.com/shubham5400E)|python|infosys|
 Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google |
 |Vansh Gujar|SCOA64|[Github](https://github.com/Vansh936)|Python|BLACK ROCKCONTRIBUTORS.md|
+| Vinit Bhagwat  | SCOB44 |[GitHub](https://github.com/vinitbhagwat) | Java | Microsoft |  
