@@ -31,3 +31,4 @@ Rahul Kolhe | Scob15 | [GitHub](https://github.com/Rahulkolhe777) | CPP | Google
 YASH VARPE|SCOB16|[Github](https://github.com/yash-0120)|JAVA|GOOGLE|
 | Prashant Kokare | SCOB03| [GitHub](https://github.com/Prashant-2008) | Python | Microsoft |
 | Rushikesh Jadhav | SCOB67 | [GitHub](https://github.com/madmaxdobby) | Python | Google |
+|Om Kalhatkar|SCOB57|[GitHub](https://github.com/omkal18)|CPP|Amazon|
