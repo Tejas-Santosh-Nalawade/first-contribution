@@ -38,4 +38,4 @@ Add your details below 👇
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
-|Rugved Nadhe        | SCA156  | [GitHub](https://github.com/rugzz0808)                             |Python,Java,Html,Css                        | Google          |
+|Rugved Nadhe        | SCA156  | [GitHub](https://github.com/rugzz0808)                             |Python,Java,Html,Css           | Google          |
