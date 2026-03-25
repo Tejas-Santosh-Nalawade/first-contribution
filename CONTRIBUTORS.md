@@ -38,3 +38,4 @@ Add your details below 👇
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+| Tanvi Jain         | 25FC540 | [GitHub](https://github.com/tanvijain17122006-collab)              | Cpp,Python                    | JP Morgan       |
