@@ -38,3 +38,5 @@ Add your details below 👇
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+| Arryan Ghadge   | 25FC434  | [GitHub](https://github.com/Arryan2005)                           | Python                        | Google          |
+| Yadnesh Wagaskar       | 25FC131  | [GitHub](https://github.com/yadneshwagaskar5189)                       | Python                           | Google 
