@@ -36,5 +36,4 @@ Add your details below 👇
 | Samiksha Khaire    | SCOB63  | [Github](https://github.com/Samiksha-0999)                         | java                          | Microsoft       |
 | Mrunal Jagtap      | SCOB40  | [GitHub](https://github.com/SpoidyMon)                             | CPP                           | Google          |
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
-| Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
-| Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+| Tejal Patil     | 25Sc115  | [GitHub](https://github.com/Tejal098)                       | CPP,Python,sql                    | paypal       |
