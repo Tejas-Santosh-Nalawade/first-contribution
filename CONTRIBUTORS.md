@@ -38,3 +38,5 @@ Add your details below 👇
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+|Harshit Jain        | SCOB23  | [GitHub](https://github.com/HarshitJain-sys)                       | Java                         |BMW           |
+| Om Kalhatkar       | SCOB57  | [GitHub](https://github.com/omkal18)                               | CPP                           | Amazon          |
