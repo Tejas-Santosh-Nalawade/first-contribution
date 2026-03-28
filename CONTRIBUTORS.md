@@ -16,8 +16,8 @@ Add your details below 👇
 | Vansh Gujar        | SCOA64  | [Github](https://github.com/Vansh936)                              | Python                        | BLACK ROCK      |
 | Vinit Bhagwat      | SCOB44  | [GitHub](https://github.com/vinitbhagwat)                          | Java                          | Microsoft       |
 | Abhijit Deshmukh   | SCOB76  | [GitHub](https://github.com/Abhijit5011)                           | Python                        | Microsoft       |
-| Tanishka Zaware    | SCOB46  | [GitHub](https://github.com/tanishkazaware/github-_session-try.git) | JAVA                        | Google          |
-| subodh danekari    | SCOA27  | [GitHub](https://github.com/subodhdanekari/first-contribution.git) | CPP                         | Google          |
+| Tanishka Zaware    | SCOB46  | [GitHub](https://github.com/tanishkazaware/github-_session-try.git)| JAVA                          | Google          |
+| subodh danekari    | SCOA27  | [GitHub](https://github.com/subodhdanekari/first-contribution.git) | CPP                           | Google          |
 | Pratik Singh       | SCOB58  | [GitHub](https://github.com/Pratik168960)                          | CPP                           | Google          |
 | Nandani waghmare   | SCOB78  | [GitHub](https://github.com/Nandaniwaghmare)                       | CPP Python                    | Google          |
 | Rupesh Jagtap      | SCOB23  | [GitHub](https://github.com/rupesh0001-tech)                       | CPP                           | Google          |
@@ -37,6 +37,23 @@ Add your details below 👇
 | Mrunal Jagtap      | SCOB40  | [GitHub](https://github.com/SpoidyMon)                             | CPP                           | Google          |
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
+| Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | tata steel          |
+|Ronit Patil         |25FC321 | [GitHub](https://github.com/ronitptl)                               |Python | Anthropic             | Visa  |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
 |Harshit Jain        | SCOB23  | [GitHub](https://github.com/HarshitJain-sys)                       | Java                         |BMW           |
 | Om Kalhatkar       | SCOB57  | [GitHub](https://github.com/omkal18)                               | CPP                           | Amazon          |
+| Arryan Ghadge   | 25FC434  | [GitHub](https://github.com/Arryan2005)                           | Python                        | Google          |
+| Yadnesh Wagaskar       | 25FC131  | [GitHub](https://github.com/yadneshwagaskar5189)                       | Python                           | Google 
+|Rugved Nadhe        | SCA156  | [GitHub](https://github.com/rugzz0808)                             |Python,Java,Html,Css           | Google          |
+| Sujal Chaudhari    | 25FC307 | [GitHub](https://github.com/chaudharisujal986-gif)                  | Python                        | Google 
+| Tanush Harihar       | 25CS150  | [GitHub](https://github.com/tanus-harihar)                       | CPP                           | Google          |
+| Priyesh GHuge      | SCOA51  | [GitHub](https://github.com/PriyeshGhuge)                          | CPP,Python,HTML           | Google          |
+| Tanvi Jain         | 25FC540 | [GitHub](https://github.com/tanvijain17122006-collab)              | Cpp,Python                    | JP Morgan       |
+| Harsh Tiwari       | 25FC552 | [GitHub](https://github.com/HarshT-cmd)                            | C,Python                      | Nvidia,Amazon   |
+|Om Rachkar     |    |25FC340  | [GitHub](https://github.com/Om-Rachkar)                            | Python                        |Google           |
+ Arya Gawande       | SCOB32  | [GitHub](https://github.com/aryagawande)                            | CPP,HTML,Python                          | Nvidia  
+| Ashutosh Patil     | 25FC304 | [GitHub](https://github.com/AshutoshPatil-dev)                     | C,Python                      | Google          |
+| Sibtain Raza       | 25SC125  | [GitHub](https://github.com/sibtain-raza817)                       | CPP                           | Google          |
+ Bhagvati Bobade       | SCOB32  | [GitHub](https://github.com/bhagvatibobade2007)                  | CPP,python,Java,HTML         | Google |
+| Mayuri Dhavalikar  | SCOG28  | [GitHub](https://github.com/mayuridhavalikar111-oss)               | Python                        | Microsoft       |
+| Aaditya Patil       | SCOB35  | [GitHub](https://github.com/Aadityx)                       | React                           | Infosys          |
