@@ -37,6 +37,8 @@ Add your details below 👇
 | Mrunal Jagtap      | SCOB40  | [GitHub](https://github.com/SpoidyMon)                             | CPP                           | Google          |
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
+| Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | tata steel          |
+|Ronit Patil         |25FC321 | [GitHub] (https://github.com/ronitptl) |   Python | Anthropic
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
 |Om Rachkar     |    |25FC340  | [GitHub](https://github.com/Om-Rachkar)                            | Python                        |Google           |
  Arya Gawande       | SCOB32  | [GitHub] https://github.com/aryagawande                      | CPP,HTML,Python                          | Nvidia  
