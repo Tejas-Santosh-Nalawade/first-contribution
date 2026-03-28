@@ -42,6 +42,7 @@ Add your details below 👇
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | tata steel          |
 |Ronit Patil         |25FC321 | [GitHub](https://github.com/ronitptl)                               |Python | Anthropic             | Visa  |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+| Himanshu Kulkarni  | 25FC163 | [Github](https://github.com/Himanshu-kulkarni)                     | CPP                           | Jane Street     |
 | Manas Singh        | 25FC557 | [GitHub](https://github.com/manas22-dev)                           | CPP, Python                   | Google          |
 | Arryan Ghadge   | 25FC434  | [GitHub](https://github.com/Arryan2005)                           | Python                        | Google          |
 | Yadnesh Wagaskar       | 25FC131  | [GitHub](https://github.com/yadneshwagaskar5189)                       | Python                           | Google 
