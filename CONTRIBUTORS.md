@@ -37,11 +37,15 @@ Add your details below 👇
 | Mrunal Jagtap      | SCOB40  | [GitHub](https://github.com/SpoidyMon)                             | CPP                           | Google          |
 | Sneha More         | SCOA79  | [GitHub](https://github.com/snehamore555)                          | Python,Java                   | Amazon          |
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
+| Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           
+| Tejal Patil     | 25SC115  | [GitHub](https://github.com/Tejal098)                       | CPP,Python                    | Paypal       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | tata steel          |
 |Ronit Patil         |25FC321 | [GitHub](https://github.com/ronitptl)                               |Python | Anthropic             | Visa  |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
 |Harshit Jain        | SCOB23  | [GitHub](https://github.com/HarshitJain-sys)                       | Java                         |BMW           |
 | Om Kalhatkar       | SCOB57  | [GitHub](https://github.com/omkal18)                               | CPP                           | Amazon          |
+| Himanshu Kulkarni  | 25FC163 | [Github](https://github.com/Himanshu-kulkarni)                     | CPP                           | Jane Street     |
+| Manas Singh        | 25FC557 | [GitHub](https://github.com/manas22-dev)                           | CPP, Python                   | Google          |
 | Arryan Ghadge   | 25FC434  | [GitHub](https://github.com/Arryan2005)                           | Python                        | Google          |
 | Yadnesh Wagaskar       | 25FC131  | [GitHub](https://github.com/yadneshwagaskar5189)                       | Python                           | Google 
 |Rugved Nadhe        | SCA156  | [GitHub](https://github.com/rugzz0808)                             |Python,Java,Html,Css           | Google          |
