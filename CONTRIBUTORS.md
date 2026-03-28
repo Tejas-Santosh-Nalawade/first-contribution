@@ -39,3 +39,7 @@ Add your details below 👇
 | Rupali Khalkar     | SCOA76  | [GitHub](https://github.com/rupalikhalkar23)                       | CPP,Python                    | Microsoft       |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
 | Ashutosh Patil     | 25FC304 | [GitHub](https://github.com/AshutoshPatil-dev)                     | C,Python                      | Google          |
+| Sibtain Raza       | 25SC125  | [GitHub](https://github.com/sibtain-raza817)                       | CPP                           | Google          |
+ Bhagvati Bobade       | SCOB32  | [GitHub](https://github.com/bhagvatibobade2007)                  | CPP,python,Java,HTML         | Google |
+| Mayuri Dhavalikar  | SCOG28  | [GitHub](https://github.com/mayuridhavalikar111-oss)               | Python                        | Microsoft       |
+| Aaditya Patil       | SCOB35  | [GitHub](https://github.com/Aadityx)                       | React                           | Infosys          |
