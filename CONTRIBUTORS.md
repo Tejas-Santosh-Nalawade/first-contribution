@@ -40,6 +40,7 @@ Add your details below 👇
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | tata steel          |
 |Ronit Patil         |25FC321 | [GitHub](https://github.com/ronitptl)                               |Python | Anthropic             | Visa  |
 | Yash Satpute       | SCOB32  | [GitHub](https://github.com/YashSatpute3142)                       | CPP                           | Google          |
+| Sujal Chaudhari    | 25FC307 | [GitHub](https://github.com/chaudharisujal986-gif)                  | Python                        | Google 
 | Tanush Harihar       | 25CS150  | [GitHub](https://github.com/tanus-harihar)                       | CPP                           | Google          |
 | Priyesh GHuge      | SCOA51  | [GitHub](https://github.com/PriyeshGhuge)                          | CPP,Python,HTML           | Google          |
 | Tanvi Jain         | 25FC540 | [GitHub](https://github.com/tanvijain17122006-collab)              | Cpp,Python                    | JP Morgan       |
