@@ -54,7 +54,7 @@ Add your details below 👇
 | Priyesh GHuge      | SCOA51  | [GitHub](https://github.com/PriyeshGhuge)                          | CPP,Python,HTML           | Google          |
 | Tanvi Jain         | 25FC540 | [GitHub](https://github.com/tanvijain17122006-collab)              | Cpp,Python                    | JP Morgan       |
 | Harsh Tiwari       | 25FC552 | [GitHub](https://github.com/HarshT-cmd)                            | C,Python                      | Nvidia,Amazon   |
-|Om Rachkar     |    |25FC340  | [GitHub](https://github.com/Om-Rachkar)                            | Python                        |Google           |
+|Om Rachkar          |25FC340  | [GitHub](https://github.com/Om-Rachkar)                            | Python                        |Google           |
  Arya Gawande       | SCOB32  | [GitHub](https://github.com/aryagawande)                            | CPP,HTML,Python                          | Nvidia  
 | Ashutosh Patil     | 25FC304 | [GitHub](https://github.com/AshutoshPatil-dev)                     | C,Python                      | Google          |
 | Sibtain Raza       | 25SC125  | [GitHub](https://github.com/sibtain-raza817)                       | CPP                           | Google          |
