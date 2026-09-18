@@ -61,3 +61,4 @@ Add your details below 👇
  Bhagvati Bobade       | SCOB32  | [GitHub](https://github.com/bhagvatibobade2007)                  | CPP,python,Java,HTML         | Google |
 | Mayuri Dhavalikar  | SCOG28  | [GitHub](https://github.com/mayuridhavalikar111-oss)               | Python                        | Microsoft       |
 | Aaditya Patil       | SCOB35  | [GitHub](https://github.com/Aadityx)                       | React                           | Infosys          |
+| Omotolani Ligali      | SCOB64 | [GitHub](https://github.com/liomotolani)                       | Java                           | Intel          |
